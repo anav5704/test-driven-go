@@ -4,7 +4,7 @@ I had gotten tired of building Next.js apps so I decided to go a bit low level a
 
 ## Getting Started
 
-First, make sure you have [GoLand](https://go.dev/doc/install) installed. Then, cd into the directory you want to test and run the following command:
+First, make sure you have [GoLang](https://go.dev/doc/install) installed. Then, cd into the directory you want to test and run the following command:
 
 ```
 go test
@@ -12,6 +12,6 @@ go test
 
 ## Learning Resources
 
+- [Go web development](https://go.dev/solutions/webdev)
 - [How to learn Go](https://www.youtube.com/watch?v=OqdBixi_y1s)
-- [Go web develop](https://go.dev/solutions/webdev)
 - [GoLang Docs](https://go.dev/doc)
